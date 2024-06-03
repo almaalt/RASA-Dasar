@@ -1,1 +1,1 @@
-Dokementasi tentang Conversation Patterns dari https://rasa.com/docs/rasa/
+Dokumentasi tentang Conversation Patterns dari https://rasa.com/docs/rasa/
